@@ -1,2 +1,3 @@
 # visionApp2
-web Movil para discapacitados visuales
+https://sage-gecko-c26484.netlify.app/ 
+link de web movil vision app
